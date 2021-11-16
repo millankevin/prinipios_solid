@@ -1,0 +1,7 @@
+E:\Work\Disco D\Kevin\Universidad\Fundamentos de diseño\Actividad_2\Actividad2\InversionDependencia\bin\Debug\InversionDependencia.exe.config
+E:\Work\Disco D\Kevin\Universidad\Fundamentos de diseño\Actividad_2\Actividad2\InversionDependencia\bin\Debug\InversionDependencia.exe
+E:\Work\Disco D\Kevin\Universidad\Fundamentos de diseño\Actividad_2\Actividad2\InversionDependencia\bin\Debug\InversionDependencia.pdb
+E:\Work\Disco D\Kevin\Universidad\Fundamentos de diseño\Actividad_2\Actividad2\InversionDependencia\obj\Debug\InversionDependencia.csproj.AssemblyReference.cache
+E:\Work\Disco D\Kevin\Universidad\Fundamentos de diseño\Actividad_2\Actividad2\InversionDependencia\obj\Debug\InversionDependencia.csproj.CoreCompileInputs.cache
+E:\Work\Disco D\Kevin\Universidad\Fundamentos de diseño\Actividad_2\Actividad2\InversionDependencia\obj\Debug\InversionDependencia.exe
+E:\Work\Disco D\Kevin\Universidad\Fundamentos de diseño\Actividad_2\Actividad2\InversionDependencia\obj\Debug\InversionDependencia.pdb

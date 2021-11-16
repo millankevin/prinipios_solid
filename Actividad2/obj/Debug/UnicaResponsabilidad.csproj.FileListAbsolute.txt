@@ -1,0 +1,6 @@
+E:\Work\Disco D\Kevin\Universidad\Fundamentos de diseño\Actividad_2\Actividad2\Actividad2\bin\Debug\Actividad2.exe.config
+E:\Work\Disco D\Kevin\Universidad\Fundamentos de diseño\Actividad_2\Actividad2\Actividad2\bin\Debug\Actividad2.exe
+E:\Work\Disco D\Kevin\Universidad\Fundamentos de diseño\Actividad_2\Actividad2\Actividad2\bin\Debug\Actividad2.pdb
+E:\Work\Disco D\Kevin\Universidad\Fundamentos de diseño\Actividad_2\Actividad2\Actividad2\obj\Debug\UnicaResponsabilidad.csproj.CoreCompileInputs.cache
+E:\Work\Disco D\Kevin\Universidad\Fundamentos de diseño\Actividad_2\Actividad2\Actividad2\obj\Debug\Actividad2.exe
+E:\Work\Disco D\Kevin\Universidad\Fundamentos de diseño\Actividad_2\Actividad2\Actividad2\obj\Debug\Actividad2.pdb

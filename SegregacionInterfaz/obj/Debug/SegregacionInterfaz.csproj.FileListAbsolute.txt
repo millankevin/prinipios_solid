@@ -1,0 +1,7 @@
+E:\Work\Disco D\Kevin\Universidad\Fundamentos de diseño\Actividad_2\Actividad2\SegregacionInterfaz\bin\Debug\SegregacionInterfaz.exe.config
+E:\Work\Disco D\Kevin\Universidad\Fundamentos de diseño\Actividad_2\Actividad2\SegregacionInterfaz\bin\Debug\SegregacionInterfaz.exe
+E:\Work\Disco D\Kevin\Universidad\Fundamentos de diseño\Actividad_2\Actividad2\SegregacionInterfaz\bin\Debug\SegregacionInterfaz.pdb
+E:\Work\Disco D\Kevin\Universidad\Fundamentos de diseño\Actividad_2\Actividad2\SegregacionInterfaz\obj\Debug\SegregacionInterfaz.csproj.AssemblyReference.cache
+E:\Work\Disco D\Kevin\Universidad\Fundamentos de diseño\Actividad_2\Actividad2\SegregacionInterfaz\obj\Debug\SegregacionInterfaz.csproj.CoreCompileInputs.cache
+E:\Work\Disco D\Kevin\Universidad\Fundamentos de diseño\Actividad_2\Actividad2\SegregacionInterfaz\obj\Debug\SegregacionInterfaz.exe
+E:\Work\Disco D\Kevin\Universidad\Fundamentos de diseño\Actividad_2\Actividad2\SegregacionInterfaz\obj\Debug\SegregacionInterfaz.pdb

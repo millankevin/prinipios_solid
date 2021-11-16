@@ -1,0 +1,6 @@
+E:\Work\Disco D\Kevin\Universidad\Fundamentos de diseño\Actividad_2\Actividad2\AbiertoCerrado\bin\Debug\AbiertoCerrado.exe.config
+E:\Work\Disco D\Kevin\Universidad\Fundamentos de diseño\Actividad_2\Actividad2\AbiertoCerrado\bin\Debug\AbiertoCerrado.exe
+E:\Work\Disco D\Kevin\Universidad\Fundamentos de diseño\Actividad_2\Actividad2\AbiertoCerrado\bin\Debug\AbiertoCerrado.pdb
+E:\Work\Disco D\Kevin\Universidad\Fundamentos de diseño\Actividad_2\Actividad2\AbiertoCerrado\obj\Debug\AbiertoCerrado.csproj.CoreCompileInputs.cache
+E:\Work\Disco D\Kevin\Universidad\Fundamentos de diseño\Actividad_2\Actividad2\AbiertoCerrado\obj\Debug\AbiertoCerrado.exe
+E:\Work\Disco D\Kevin\Universidad\Fundamentos de diseño\Actividad_2\Actividad2\AbiertoCerrado\obj\Debug\AbiertoCerrado.pdb

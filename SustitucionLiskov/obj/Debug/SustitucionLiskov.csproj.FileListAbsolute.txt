@@ -1,0 +1,6 @@
+E:\Work\Disco D\Kevin\Universidad\Fundamentos de diseño\Actividad_2\Actividad2\SustitucionLiskov\bin\Debug\SustitucionLiskov.exe.config
+E:\Work\Disco D\Kevin\Universidad\Fundamentos de diseño\Actividad_2\Actividad2\SustitucionLiskov\bin\Debug\SustitucionLiskov.exe
+E:\Work\Disco D\Kevin\Universidad\Fundamentos de diseño\Actividad_2\Actividad2\SustitucionLiskov\bin\Debug\SustitucionLiskov.pdb
+E:\Work\Disco D\Kevin\Universidad\Fundamentos de diseño\Actividad_2\Actividad2\SustitucionLiskov\obj\Debug\SustitucionLiskov.csproj.CoreCompileInputs.cache
+E:\Work\Disco D\Kevin\Universidad\Fundamentos de diseño\Actividad_2\Actividad2\SustitucionLiskov\obj\Debug\SustitucionLiskov.exe
+E:\Work\Disco D\Kevin\Universidad\Fundamentos de diseño\Actividad_2\Actividad2\SustitucionLiskov\obj\Debug\SustitucionLiskov.pdb
